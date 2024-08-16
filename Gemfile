@@ -30,3 +30,5 @@ group :test do
   gem "selenium-webdriver"
 end
 gem "redis"
+
+gem "devise", "~> 4.9"
